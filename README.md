@@ -161,9 +161,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Team
 
 - **Dahyun (Lisa) Kyoung** - Project Lead - [@lisakyoung](https://github.com/lisakyoung)
-- **Poqopo** - Core Developer
-- **Suhyun Cho** - Core Developer
-- **Jisoo Kim** - Core Developer
 
 ## 📞 Contact
 
